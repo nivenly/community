@@ -33,7 +33,7 @@ cycles.
 
 If you are a member, and mebers are tracked via our [Open Collective page](https://opencollective.com/nivenly-foundation),
 then you can open a request with Nivenly either via the Community Discord,
-here on GitHub Issuess, or even via email. Mainly, you just need to start a
+here on GitHub Discussions or Issuess, or even via email. Mainly, you just need to start a
 request in any avenue you choose, e.g.:
 
 > Hey! I have a [problem|question|concern] about a decision making process
@@ -54,12 +54,12 @@ to help simplify the discussion + election process.
 
 #### What is the current change / voice process?
 
-Discussions are happening in GitHub Issues. 
+Discussions are happening in GitHub Discussions and Issues. 
 
-#### I want to have a discussion, but Nivenly didn't make a GitHub Issue. What do I do?
+#### I want to have a discussion, but Nivenly didn't make a GitHub Discussion Thread / Issue. What do I do?
 
 Nivenly Community Members are active parts of governance. Nivenly doesn't create
-Community Issues on behalf of the Community in general, rather the interested
+Community Discussion Threads / Issues on behalf of the Community in general, rather the interested
 parties post their questions and topics.
 
 If you are a Nivenly Community Member with a question or concern, please simply
