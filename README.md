@@ -58,7 +58,7 @@ Discussions are happening in GitHub Issues.
 
 #### I want to have a discussion, but Nivenly didn't make a GitHub Issue. What do I do?
 
-Nivenly Community Mmebers are active parts of governance. Nivenly doesn't create
+Nivenly Community Members are active parts of governance. Nivenly doesn't create
 Community Issues on behalf of the Community in general, rather the interested
 parties post their questions and topics.
 
