@@ -17,7 +17,7 @@ conversations.
 As a reminder:
 
 1. Any Nivenly member can request discussions or election processes
-2. Any Nivenly member can vot in elections
+2. Any Nivenly member can vote in elections
 3. In our first year, we've communicated that we're iterating on feedback loops as
    we try to make tooling choices that are intuitive and don't require several,
    separate, logins.
