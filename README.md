@@ -58,12 +58,11 @@ Discussions are happening in GitHub Discussions and Issues.
 
 #### I want to have a discussion, but Nivenly didn't make a GitHub Discussion Thread / Issue. What do I do?
 
-Nivenly Community Members are active parts of governance. Nivenly doesn't create
-Community Discussion Threads / Issues on behalf of the Community in general, rather the interested
-parties post their questions and topics.
+In general, Nivenly does not create Discussions / Issues on behalf of Nivenly
+Community Members. If you are a Nivenly Community Member, please just go ahead and
+create your Discussion or Issue!
 
-If you are a Nivenly Community Member with a question or concern, please simply
-raise it. You do not need to wait for approval from Nivenly to request a discussion
+To state it clearly: you do not need to wait for approval from Nivenly to request a discussion
 or the governance process.
 
 #### Is Nivenly's governance model ready?
